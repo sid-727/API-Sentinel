@@ -1,4 +1,4 @@
-# API Sentinals
+# API Sentinel
 
 Multi-tenant LLM proxy that rate-limits tenants, runs dual-layer prompt guardrails, forwards clean traffic to upstream providers, and records telemetry in Supabase.
 
